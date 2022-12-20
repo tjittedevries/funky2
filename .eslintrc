@@ -1,0 +1,6 @@
+{
+    "root": true,
+    "extends": [
+      "@tresinternet/eslint-config-vue3"
+    ]
+  }

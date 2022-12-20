@@ -1,0 +1,25 @@
+{
+	"[vue]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+	},
+	"editor.detectIndentation": false,
+	"editor.tabSize": 2,
+	"eslint.alwaysShowStatus": true,
+	"eslint.format.enable": true,
+	"css.validate": false,
+	"less.validate": false,
+	"scss.validate": false,
+	"stylelint.validate": [
+		"css",
+		"scss",
+		"vue"
+	],
+	"eslint.validate": [
+		"javascript",
+		"typescript",
+		"vue",
+	],
+}

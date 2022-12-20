@@ -1,0 +1,5 @@
+{
+	"extends": [
+		"@tresinternet/stylelint-config-vue3"
+	]
+}
